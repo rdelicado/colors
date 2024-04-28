@@ -24,14 +24,14 @@ Open your terminal and run the following command to open the `.zshrc` file in yo
 In the .zshrc file, scroll to the end of the file using the arrow keys or mouse.
 Add the following line at the end of the file to create an alias named "co" that points to the color executable located in the /opt directory:
 
-	```bash
+   ```bash
 alias co='/opt/color'
-	```
+   ```
 Make sure to replace /opt/color with the correct path to your executable.
 Save the changes to the .zshrc file and close it.
 To apply the changes, run the following command in your terminal:
 
-	```bash
+   ```bash
 source ~/.zshrc
-	```
+   ```
 Once done, you can execute your program from any directory by simply typing co in your terminal.
