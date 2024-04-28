@@ -30,6 +30,7 @@ alias co='/opt/color'
 Make sure to replace /opt/color with the correct path to your executable.
 Save the changes to the .zshrc file and close it.
 To apply the changes, run the following command in your terminal:
+
 	```bash
 source ~/.zshrc
 	```
