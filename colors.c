@@ -1,12 +1,12 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   colores.c                                          :+:      :+:    :+:   */
+/*   colors.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: rdelicad <rdelicad@student.42.com>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/20 12:23:13 by rdelicad          #+#    #+#             */
-/*   Updated: 2024/04/28 21:37:37 by rdelicad         ###   ########.fr       */
+/*   Updated: 2024/04/28 22:03:01 by rdelicad         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -33,7 +33,7 @@ int main()
 	printf("%sUse:\t\"%s\\033[%s<0,1,2>%s;", BlancoI, AzulI, AmarilloI, AzulI);
 	printf("%s<color>%sm%s <Text> ", RojoI, AzulI, VerdeI);
 	printf("%s\\033[0m%s\"\n\n", AzulI, Reset);
-	printf("%sEjample: \"%s\\033[1;36m ", Blanco, CelesteI);
+	printf("%sExample: \"%s\\033[1;36m ", Blanco, CelesteI);
 	printf("%sThis is text", VerdeI);
 	printf(" %s\\033[0m%s\"\n\n", CelesteI, Reset);
 	
