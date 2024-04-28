@@ -9,9 +9,9 @@ This C program provides you with a quick guide to the ANSI colour codes that you
 The program displays a table of ANSI colour codes and their visual representation. This allows you to easily remember which colour code number to use when you are writing programs that require text output with custom colours.
 
 ## COMPILATiON
-
-make
-
+  ```bash 
+      make
+   ```
 # Adding Alias to .zshrc for Color Codes Helper
 
 To execute the Color Codes Helper program from any directory in your terminal, you can add an alias to your `.zshrc` file. Below are the steps to add the alias "co" to your `.zshrc` file, assuming you have placed the `color` program in the `/opt` directory:
