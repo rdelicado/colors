@@ -10,7 +10,7 @@ The program displays a table of ANSI colour codes and their visual representatio
 
 ## COMPILATiON
   ```bash 
-      make
+  make
    ```
 # Adding Alias to .zshrc for Color Codes Helper
 
