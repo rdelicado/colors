@@ -22,7 +22,7 @@ Open your terminal and run the following command to open the `.zshrc` file in yo
    nano ~/.zshrc
    ```
 In the .zshrc file, scroll to the end of the file using the arrow keys or mouse.
-Add the following line at the end of the file to create an alias named "co" that points to the color executable located in the /opt directory:
+Add the following line at the end of the file to create an alias named `co` that points to the color executable located in the /opt directory:
 
    ```bash
 alias co='/opt/color'
