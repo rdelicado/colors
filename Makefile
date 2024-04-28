@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -Werror
 NAME = color
-SRC = colores.c
+SRC = colors.c
 
 all: $(NAME)
 
