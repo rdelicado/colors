@@ -34,4 +34,4 @@ To apply the changes, run the following command in your terminal:
    ```bash
 source ~/.zshrc
    ```
-Once done, you can execute your program from any directory by simply typing co in your terminal.
+Once done, you can execute your program from any directory by simply typing <co> in your terminal.
